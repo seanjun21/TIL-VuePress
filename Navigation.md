@@ -1,1 +1,1 @@
-<<Navigation()>>
+<<Navigation(title, subdir, full_path)>>
