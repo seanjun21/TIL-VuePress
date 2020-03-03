@@ -1,1 +1,1 @@
-<<Navigation(title, subdir, full_path)>>
+<<GlobalTOC()>>
