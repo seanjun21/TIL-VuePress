@@ -1,1 +1,1 @@
-<<GlobalTOC()>>
+<<AllPages()>>
