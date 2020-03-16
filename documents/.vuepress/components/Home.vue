@@ -10,7 +10,7 @@
         <div class="name">Sean's TIL</div>
         <ul>
           <li>
-            <a href="https://github.com/milooy">GitHub</a>
+            <a href="https://github.com/seanjun21/">GitHub</a>
           </li>
           <li>
             <a href="https://dev.to/seanjun21/">Blog</a>
