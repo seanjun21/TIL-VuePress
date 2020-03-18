@@ -1,6 +1,6 @@
-# Today I Learned
+# DEVuepress
 
-This is my DEV log. Inspired by [milooy](https://github.com/milooy/TIL).
+This is my devlog built with vuepress. Inspired by [milooy](https://github.com/milooy/TIL).
 
 ## Formatting Rules
 
