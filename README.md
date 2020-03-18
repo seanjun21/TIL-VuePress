@@ -1,4 +1,4 @@
-# DEVuepress
+# DEVlog
 
 This is my devlog built with VuePress. Inspired by [milooy](https://github.com/milooy/TIL).
 
