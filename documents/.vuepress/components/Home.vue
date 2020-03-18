@@ -1,10 +1,7 @@
 <template>
   <div>
     <div class="titleContainer">
-      <h1>
-        Today
-        <br />I learned
-      </h1>
+      <h1>DEVP</h1>
 
       <div class="infoContainer">
         <div class="name">Sean's DEVP</div>
