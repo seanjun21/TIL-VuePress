@@ -7,7 +7,7 @@
       </h1>
 
       <div class="infoContainer">
-        <div class="name">Sean's TIL</div>
+        <div class="name">Sean's DEVP</div>
         <ul>
           <li>
             <a href="https://github.com/seanjun21/">GitHub</a>
