@@ -1,4 +1,4 @@
-# DEVP
+# Today I Learned
 
 This is my DEV log. Inspired by [milooy](https://github.com/milooy/TIL).
 
@@ -28,11 +28,11 @@ curl get.pow.cx/uninstall.sh | sh
 
 ### Usage
 
-Setup as below and connect to [http://devp.wiki.test/](http://devp.wiki.test/)
+Setup as below and connect to [http://til.wiki.test/](http://til.wiki.test/)
 
 ```bash
 cd ~/.pow
-ln -s path/to/this_local_repo devp.wiki
+ln -s path/to/this_local_repo til.wiki
 ```
 
 ### Anvil Installation

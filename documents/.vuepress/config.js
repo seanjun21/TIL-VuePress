@@ -1,9 +1,9 @@
 var CONST = require("./const");
 
 module.exports = {
-  title: `DEVP`,
+  title: `Today Sean Learned`,
   description: `Sean's Personal Wiki (Today I Learned)`,
-  base: "/DEVP/",
+  base: "/TIL/",
   dest: 'build',
   head: [
     ['link', {

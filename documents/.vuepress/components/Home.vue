@@ -1,10 +1,13 @@
 <template>
   <div>
     <div class="titleContainer">
-      <h1>DEVP</h1>
+      <h1>
+        Today
+        <br />I learned
+      </h1>
 
       <div class="infoContainer">
-        <div class="name">Sean's DEVP</div>
+        <div class="name">Sean's TIL</div>
         <ul>
           <li>
             <a href="https://github.com/seanjun21/">GitHub</a>
