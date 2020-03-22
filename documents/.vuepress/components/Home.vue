@@ -2,12 +2,12 @@
   <div>
     <div class="titleContainer">
       <h1>
-        Today
-        <br />I learned
+        Development
+        <br />Log
       </h1>
 
       <div class="infoContainer">
-        <div class="name">Sean's TIL</div>
+        <div class="name">Sean's DEVL</div>
         <ul>
           <li>
             <a href="https://github.com/seanjun21/">GitHub</a>

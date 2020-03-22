@@ -1,4 +1,4 @@
-# Today I Learned
+# Development Log
 
 This is my development log. Inspired by [milooy](https://github.com/milooy/TIL).
 
