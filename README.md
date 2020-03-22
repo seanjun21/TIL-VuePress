@@ -1,6 +1,6 @@
 # Today I Learned
 
-This is my DEV log. Inspired by [milooy](https://github.com/milooy/TIL).
+This is my development log. Inspired by [milooy](https://github.com/milooy/TIL).
 
 ## Formatting Rules
 
